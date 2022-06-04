@@ -1,0 +1,17 @@
+.btn{
+  position: fixed;
+  left: 45%;
+}
+.total{
+  display: none;
+}
+.total.use-active{
+  display: block;
+}
+.totalP{
+  display: none;
+}
+.totalP.use-active{
+  display: block;
+  font-weight: bold;
+}
